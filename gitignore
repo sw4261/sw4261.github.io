@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Figures
+/figures/*.png
+
+# OS-specific
+.DS_Store
+Thumbs.db
